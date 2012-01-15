@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project telamonaholdings -->
+<!-- Saved: 2012-01-15, 00:29:15 -->
+<!-- Copyright (C) 2012 ,  -->
+<Project version="4.6">
+  <Language>en</Language>
+  <ProgLanguage mixed="1">Python</ProgLanguage>
+  <ProjectType>Other</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>config/initializers/backtrace_silencers.rb</Source>
+    <Source>config/initializers/session_store.rb</Source>
+    <Source>config/initializers/secret_token.rb</Source>
+    <Source>config/initializers/inflections.rb</Source>
+    <Source>config/initializers/mime_types.rb</Source>
+    <Source>config/environment.rb</Source>
+    <Source>config/routes.rb</Source>
+    <Source>config/environments/production.rb</Source>
+    <Source>config/environments/test.rb</Source>
+    <Source>config/environments/development.rb</Source>
+    <Source>config/application.rb</Source>
+    <Source>config/boot.rb</Source>
+    <Source>app/helpers/application_helper.rb</Source>
+    <Source>app/controllers/application_controller.rb</Source>
+    <Source>db/seeds.rb</Source>
+    <Source>__init__.py</Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.rb" type="SOURCES" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+  </FiletypeAssociations>
+</Project>
